@@ -1,0 +1,9 @@
+{
+	"name": "testpysparkdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe240089-3083-476a-b46e-f848c6b87abd",
+		"tenantId": "b3f27e4e-5345-4a04-85d6-8a02e7e08d60"
+	}
+}
